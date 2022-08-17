@@ -1,0 +1,16 @@
+table {
+  width: 100%;
+}
+
+th, td {
+  // display: flex;
+  // height: inherit;
+  // align-items: center;
+}
+
+.loading-spinner {
+  background-color: rgba(27, 27, 27, 0.075);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

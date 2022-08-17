@@ -1,2 +1,2 @@
 # Angular-CRUD
-Sistema com Angular e Spring
+Teste de plataforma com CRUD. Angular com Material e API Spring/H2.
